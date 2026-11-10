@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env*
+# 5 MB generation masters; web-ready copies live in site/public/img
+site/art/raw/
